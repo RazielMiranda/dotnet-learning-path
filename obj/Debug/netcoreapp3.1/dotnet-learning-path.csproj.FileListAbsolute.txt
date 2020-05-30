@@ -1,0 +1,13 @@
+C:\Users\razie\OneDrive\Documentos\GitHub\dotnet-learning-path\bin\Debug\netcoreapp3.1\dotnet-learning-path.exe
+C:\Users\razie\OneDrive\Documentos\GitHub\dotnet-learning-path\bin\Debug\netcoreapp3.1\dotnet-learning-path.deps.json
+C:\Users\razie\OneDrive\Documentos\GitHub\dotnet-learning-path\bin\Debug\netcoreapp3.1\dotnet-learning-path.runtimeconfig.json
+C:\Users\razie\OneDrive\Documentos\GitHub\dotnet-learning-path\bin\Debug\netcoreapp3.1\dotnet-learning-path.runtimeconfig.dev.json
+C:\Users\razie\OneDrive\Documentos\GitHub\dotnet-learning-path\bin\Debug\netcoreapp3.1\dotnet-learning-path.dll
+C:\Users\razie\OneDrive\Documentos\GitHub\dotnet-learning-path\bin\Debug\netcoreapp3.1\dotnet-learning-path.pdb
+C:\Users\razie\OneDrive\Documentos\GitHub\dotnet-learning-path\obj\Debug\netcoreapp3.1\dotnet-learning-path.csprojAssemblyReference.cache
+C:\Users\razie\OneDrive\Documentos\GitHub\dotnet-learning-path\obj\Debug\netcoreapp3.1\dotnet-learning-path.AssemblyInfoInputs.cache
+C:\Users\razie\OneDrive\Documentos\GitHub\dotnet-learning-path\obj\Debug\netcoreapp3.1\dotnet-learning-path.AssemblyInfo.cs
+C:\Users\razie\OneDrive\Documentos\GitHub\dotnet-learning-path\obj\Debug\netcoreapp3.1\dotnet-learning-path.csproj.CoreCompileInputs.cache
+C:\Users\razie\OneDrive\Documentos\GitHub\dotnet-learning-path\obj\Debug\netcoreapp3.1\dotnet-learning-path.dll
+C:\Users\razie\OneDrive\Documentos\GitHub\dotnet-learning-path\obj\Debug\netcoreapp3.1\dotnet-learning-path.pdb
+C:\Users\razie\OneDrive\Documentos\GitHub\dotnet-learning-path\obj\Debug\netcoreapp3.1\dotnet-learning-path.genruntimeconfig.cache
