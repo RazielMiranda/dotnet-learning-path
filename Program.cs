@@ -6,9 +6,13 @@ namespace dotnet_learning_path
     {
         static void Main(string[] args)
         {   
-            ContaBancaria Conta = new ContaBancaria();
-            Conta.exibir_conta("Raziel","Nubank","0001",8358,1298);
-            Console.WriteLine(Conta.get_saldo());
+            Pessoa Raziel = new Pessoa();
+          
+            Raziel.SetNome("Raziel M.");
+            Raziel.SetIdade(21);
+            Console.WriteLine(Raziel.GetNome());
+            Console.WriteLine(Raziel.GetIdade());
+            Console.WriteLine(Raziel.Verifica());
         }
     }
 }

@@ -1,25 +1,42 @@
 namespace dotnet_learning_path
 {
-    public class ContaBancaria
+    public class Pessoa
     {
-        protected string nome;
-        protected string banco;
-        protected string agencia;
-        protected int conta;
-        private float saldo;
+        private string nome;
+        private int idade;
 
-        public void exibir_conta(string nome, string banco, string agencia, int conta, float saldo){
-            this.nome = nome;
-            this.banco = banco;
-            this.agencia = agencia;
-            this.conta = conta;
-            this.saldo = saldo;
+        public string mensagem;
+
+        public int GetIdade()
+        {
+            return idade;
         }
 
-        public float get_saldo(){
-            return this.saldo;
+        public void SetIdade(int value)
+        {
+            idade = value;
         }
-        
+
+        public string GetNome()
+        {
+            return nome;
+        }
+
+        public void SetNome(string value)
+        {
+            nome = value;
+        }
+
+        public string Verifica()
+        {
+            if(idade < 21)
+            {
+                mensagem = "Não é o raziel";
+                return this.mensagem;
+            }
+                mensagem = "É o raziel";
+            return this.mensagem;
+        }
         
     }
 }
