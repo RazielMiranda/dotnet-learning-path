@@ -15,4 +15,6 @@ namespace dotnet_learning_path
             Console.WriteLine(Raziel.Verifica());
         }
     }
+
+    
 }

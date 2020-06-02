@@ -31,10 +31,14 @@ namespace dotnet_learning_path
         {
             if(idade < 21)
             {
-                mensagem = "Não é o raziel";
                 return this.mensagem;
             }
-                mensagem = "É o raziel";
+
+            using (System.IO.TextWriter documento = System.IO.File.CreateText("documento.txt"))
+            {
+                documento.WriteLine($"Seu nome: {this.nome}");
+                documento.WriteLine($"Sua idade:{this.idade}");
+            }
             return this.mensagem;
         }
         
